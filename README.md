@@ -19,7 +19,7 @@
   - Code: Available soon 
  
  
-<p style="color:blue;"> NOTE: This code belongs to a project funded by Ulster University, and pubished after all publications are completed. </p>
+<p style="color:blue;"> NOTE: This project belongs to a project funded by Ulster University, the code will be pubished after all publications are completed. </p>
 
   <!---------------------------------------------NLP PROJECTS--------------------------------------------------------------------------------->
  <h2> <img src="NLP_icon.png"  width="40" 
