@@ -17,7 +17,11 @@
   <b>Radio-frequency electromagnetic field exposure </b>
    - Publication: ready to submit to IEEE Access
   - Code: Available soon 
-   <!---------------------------------------------NLP PROJECTS--------------------------------------------------------------------------------->
+ 
+ 
+<p style="color:blue;"> NOTE: This code belongs to a project funded by Ulster University, and pubished after all publications are completed. </p>
+
+  <!---------------------------------------------NLP PROJECTS--------------------------------------------------------------------------------->
  <h2> <img src="NLP_icon.png"  width="40" 
      height="30" />  NLP projects </h2>
  
