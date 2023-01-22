@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chi! <br/><a href="https://github.com/joshmadakor1](https://github.com/ChiNguyen27">Data scientist, NLP engineering</a>, <a href="https://www.linkedin.com/in/chi-nguyen-a612421b2/">Research Assistant/Ph.D. student</a>
 
-<h2> <a href="https://drive.google.com/drive/folders/1hi9_LUz-YUmWjLEgVG_zBK8Y5bgFYX7T">My CV Link</a> || <a href="Chi_CV_2023_Job.pdf">My CV pdf</a>.</p> </h2>
+<!-- <h2> <a href="https://drive.google.com/drive/folders/1hi9_LUz-YUmWjLEgVG_zBK8Y5bgFYX7T">My CV Link</a> || <a href="Chi_CV_2023_Job.pdf">My CV pdf</a>.</p> </h2> -->
  
  <!--  <a href="https://medium.com/@chiyenng2788">Medium member</a></h1> -->
 
