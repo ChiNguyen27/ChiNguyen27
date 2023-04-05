@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chi! <br/><a href="https://github.com/joshmadakor1](https://github.com/ChiNguyen27"><a href="https://www.linkedin.com/in/chi-nguyen-a612421b2/">Research Assistant/Ph.D. student</a> Data scientist, NLP engineering</a>.
+<h1>Hi, I'm Chi! <br/><a>Research Assistant/Ph.D. student, </a> Data scientist, NLP engineering.
 
 <!-- <h2> <a href="https://drive.google.com/drive/folders/1hi9_LUz-YUmWjLEgVG_zBK8Y5bgFYX7T">My CV Link</a> || <a href="Chi_CV_2023_Job.pdf">My CV pdf</a>.</p> </h2> -->
  
