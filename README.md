@@ -17,7 +17,7 @@
   - Code: Updating
  
   <b>Radio-frequency electromagnetic field exposure </b>
-   - Publication: ready to submit to IEEE Access
+   - Publication: submit to IEEE Access
   - Code: Updating
  
  
