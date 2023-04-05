@@ -10,15 +10,15 @@
   
   <b>Deep learning for multi-frequency path loss model</b>
   - Publication: https://www.mdpi.com/1424-8220/21/15/5100
-  - Code: Available soon 
+  - Code: Updating
   
   <b>Channel esitmation for 6G network </b>
    - Publication: under consideration of IEEE Transaction on Machine Learning and Network
-  - Code: Available soon 
+  - Code: Updating
  
   <b>Radio-frequency electromagnetic field exposure </b>
    - Publication: ready to submit to IEEE Access
-  - Code: Available soon 
+  - Code: Updating
  
  
 <p style="color:blue;"> NOTE: This project belongs to a project funded by Ulster University, the code will be pubished after all publications are completed. </p>
@@ -37,19 +37,19 @@
  <h2> <img src="SQL_icon.png"  width="50" height="30" />  SQL </h2>
  
 <b>Basic SQL </b>
-   - [Project 1](Github code: Available soon)
+   - [Project 1](Github code: Updating)
 
  <!---------------------------------------------SOFTWARE DEVELOPMEMTS--------------------------------------------------------------------------------->
 <h2>👨‍💻 Software Development Projects:</h2>
  
-- <b>Intro to Data Structures and Algorithms (Udacy) </b>
-  - [Data Structures and Algorithm Practice](Github code: availabe soon)
+- <b> Master the Coding Interview: Data Structures + Algorithms () </b>
+  - [Data Structures and Algorithm Practice](Github code: updating)
  
  <!---------------------------------------------ONLINE  COURSES --------------------------------------------------------------------------------->
 <h2> <img src="online_course_icon.png"  width="50" 
      height="30" /> Course </h2>
 
-- [Introduction to Git and GitHub]
+- [Introduction to Git and GitHub, Coursera]
 - [Hyperparameter for machine learning, Udemy]
 - [Machine Learning: Natural Language Processing in Python (V2), Udemy]
 - [Recommender Systems and Deep Learning in Python, Udemy]
