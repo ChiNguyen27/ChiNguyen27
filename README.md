@@ -29,10 +29,10 @@
  
  <b> <img src="text_similarity_icons.png"  width="20" 
      height="10" /> Text similarity </b>
-  - [Project 1](Github code: Available soon)
+  - [Project 1](Github code: Updating)
   
   <b>Recommendation systems </b>
-   - [Project 1](Github code: Available soon)
+   - [Project 1](Github code: Updating)
  <!---------------------------------------------SQL PROJECTS--------------------------------------------------------------------------------->
  <h2> <img src="SQL_icon.png"  width="50" height="30" />  SQL </h2>
  
