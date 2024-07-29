@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chi! <br/><a>Ph.D, Researcher in applied AI. 
+<h1 style="font-size: 24px;"> Hi, I'm Chi! <br/><a>Ph.D, Researcher in applied AI. <h1></h1>
  
  I am passionate about MLOPs and LLMOPs
 
